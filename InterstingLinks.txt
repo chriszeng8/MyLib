@@ -1,0 +1,9 @@
+1. XKCD Cartoon: A webcomic of romance, sarcasm, math, and language.
+http://xkcd.com/
+
+2. Sports Analytics/Basketball Analytics
+https://www.youtube.com/watch?v=_ioxiWYxhWY
+https://www.youtube.com/watch?v=BHuZc9lQ5ss
+
+3. Google Ngram Viewer: historic popularity of n-gram vocabulary
+https://books.google.com/ngrams
